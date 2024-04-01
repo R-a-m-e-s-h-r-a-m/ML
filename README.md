@@ -1,2 +1,2 @@
 # ML
-Crop 
+Crop(Potato) Disease Detection and Identification using ML
